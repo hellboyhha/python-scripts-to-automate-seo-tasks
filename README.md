@@ -33,4 +33,3 @@ I'll keep adding new scripts to automate more tasks.
 
 ### Important:
 Before you use a script, please read the instructions in the README file for that folder.
-Need help or want to work on this project together? Email me at: [Your Email Address]
